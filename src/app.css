@@ -1,0 +1,27 @@
+body {
+  color: #333;
+  background-color: #fdfdfd;
+  font-family: sans-serif;
+}
+
+label {
+  display: block;
+}
+
+input {
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 100%;
+  padding: .5rem .75rem;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+form > div {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 2em;
+  padding: 1em;
+  background: #eaeaea;
+}
